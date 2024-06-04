@@ -22,6 +22,16 @@ body {
     
     
 }
+main {
+    height: 500px;
+    width: 300px;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+   
+    
+}
+
 
 header {
     width: 100%;
@@ -31,6 +41,18 @@ header {
     align-content: flex-start;
     align-items:baseline;
     padding: 2px;
+}
+#resume {
+    display: flex;
+    justify-content: center;
+}
+
+#pdf {
+    height: 100%;
+    display: flex;
+    
+    
+    
 }
 
 footer {
